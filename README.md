@@ -1,9 +1,12 @@
-# React TypeScript Starter Pack
+[DEMO LINK](https://enjsadman.github.io/memcrab/)
 
-To use this template click `Use this template`
 
-### Available Scripts
+```
+To run clone repo
 
-`Deploy` - available to deploy your application to gh-pages
+npm i
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+npm start
+```
+
+made as test for memcrab
