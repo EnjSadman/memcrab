@@ -1,0 +1,28 @@
+* {
+  font-size: 11px;
+}
+
+.button {
+  width: 30px;
+  height: 15px;
+  background-color: unset;
+  border: none;
+
+  &:hover {
+    color: white;
+    background-color: darkblue;
+  }
+}
+
+.table {
+  border-collapse: collapse;
+}
+
+.cell {
+  border: 1px solid gray;
+}
+
+.button_close_value {
+  color: yellowgreen;
+  background-color: gray;
+}

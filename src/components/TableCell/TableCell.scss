@@ -1,0 +1,14 @@
+.button {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  border: 1px solid gray;
+  background-color: unset;
+
+  &:hover {
+    background-color: darkblue;
+    color: white;
+
+    transition: background-color 0.5s, color 0.5s;
+  }
+}
